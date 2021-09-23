@@ -1,4 +1,4 @@
-# Lagozon Edutech Sales Dashboard
+# Year-End Sales Dashboard
 
 ## About
 After Importing the data:
